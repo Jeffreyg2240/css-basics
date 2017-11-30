@@ -13,3 +13,22 @@
 
 /*Write your CSS rules below!*/
 
+h1, h2 {
+    text-align: center;
+    color: 	#3185C1;
+}
+
+code{
+    color: #CC5166;
+    background-color: #D3D3D3;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
+.snippet {
+    background-color: #D3D3D3;
+}
