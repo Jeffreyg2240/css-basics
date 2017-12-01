@@ -22,6 +22,10 @@ h1, h2 {
     font-family:"Arial", serif;
     color: 	#3185C1;
 }
+#font-practice {
+    color: green;
+    font-style: italic;
+}
 
 code{
     color: #CC5166;
@@ -36,4 +40,22 @@ hr {
 }
 .snippet {
     background-color: #D3D3D3;
+}
+/* unvisited link */
+a:link {
+    color: green;
+}
+/* mouse over link */
+
+a:hover {
+    color: red;
+}
+/* visited link */
+a:visited {
+    color: black;
+}
+/* selected link */
+
+a:active {
+    color: blue;
 }
